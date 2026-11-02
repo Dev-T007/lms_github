@@ -1,2 +1,2 @@
 def hello():
-    return "Hello from feature!!"
+    return "Hello World!"
